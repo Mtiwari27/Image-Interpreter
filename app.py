@@ -15,7 +15,7 @@ def get_gemini_response(input,image):
 
 st.set_page_config(
     page_title="ImageInterpreter",
-    page_icon=r"C:\Users\tiwar\Image-Interpreter\App Icon.png")
+    page_icon="App Icon.png")
 st.header("Image Interpreter")
 st.markdown("""
 The app functions as a visual question answering system. 
