@@ -14,7 +14,7 @@ def get_gemini_response(input,image):
 
 
 st.set_page_config(
-    page_title="ImageInterpreter",
+    page_title="Image-Interpreter",
     page_icon="App Icon.png")
 st.header("Image Interpreter")
 st.markdown("""
