@@ -32,7 +32,7 @@ The app can be accessed [here](https://Image-Interpreter.streamlit.app/)
    streamlit run app.py
    ```
 
-6. Open your browser and visit http://localhost:8502 to explore Image-Interpreter.
+6. Open your browser and visit http://localhost:8505 to explore Image-Interpreter.
 
 ---
 
