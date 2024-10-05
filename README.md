@@ -1,5 +1,6 @@
 # Image-Interpreter
-ImageInterpreter is a Python Streamlit app powered by the Google Gemini model for advanced image analysis and description. Users can effortlessly upload images, optionally provide prompts, and receive insightful answers, making it a seamless and intuitive tool for visual data interpretation.
+Image-Interpreter is a Python Streamlit app powered by the Google Gemini model for advanced image analysis and description.
+Users can effortlessly upload images, optionally provide prompts, and receive insightful answers, making it a seamless and intuitive tool for visual data interpretation.
 The app can be accessed [here](https://Image-Interpreter.streamlit.app/)
 
 ---
