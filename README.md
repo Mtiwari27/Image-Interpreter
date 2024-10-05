@@ -1,12 +1,12 @@
-# Image-Insights
-ImageInsights is a Python Streamlit app powered by the Google Gemini model for advanced image analysis and description. Users can effortlessly upload images, optionally provide prompts, and receive insightful answers, making it a seamless and intuitive tool for visual data interpretation.
-ImageInsights app can be accessed [here](https://image-insights.streamlit.app/)
+# Image-Interpreter
+ImageInterpreter is a Python Streamlit app powered by the Google Gemini model for advanced image analysis and description. Users can effortlessly upload images, optionally provide prompts, and receive insightful answers, making it a seamless and intuitive tool for visual data interpretation.
+The app can be accessed [here](https://Image-Interpreter.streamlit.app/)
 
 ---
 
 ## How It Works
 - Upload Image: Choose or drag-and-drop an image directly into the app.
-- Optional Prompt: Provide a prompt for more context (optional but enhances accuracy).
+- Optional Prompt: Provide a prompt for more context (Optional).
 - Get Insights: Instantly receive detailed insights and analysis of the uploaded image.
 
 ---
@@ -15,8 +15,8 @@ ImageInsights app can be accessed [here](https://image-insights.streamlit.app/)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/manisha-v/Image-Insights.git
-   cd Image-Insights
+   git clone https://github.com/Mtiwari27/Image-Interpreter.git
+   cd Image-Interpreter
    ```
    
 2. Install the dependencies
@@ -31,7 +31,7 @@ ImageInsights app can be accessed [here](https://image-insights.streamlit.app/)
    streamlit run app.py
    ```
 
-6. Open your browser and visit http://localhost:8501 to explore ImageInsights.
+6. Open your browser and visit http://localhost:8502 to explore Image-Interpreter.
 
 ---
 
@@ -44,12 +44,6 @@ ImageInsights app can be accessed [here](https://image-insights.streamlit.app/)
 
 ## Deployment
 
-The app has been deployed and is accessible through the following link: https://image-insights.streamlit.app/
+The app has been deployed and is accessible through the following link: https://Image-Interpreter.streamlit.app/
 
 ---
-
-## Contact
-
-I'm always open to new opportunities and collaborations. Feel free to reach out to me through the contact form on my [portfolio website](https://manisha-v.github.io/portfolio/) or via email at [varshney.manisha05@gmail.com](mailto:varshney.manisha05@gmailcom).
-
-Connect me on [LinkedIn](https://www.linkedin.com/in/manisha-varshney-914646191/) <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" width="15"> 
