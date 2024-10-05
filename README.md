@@ -38,7 +38,7 @@ The app can be accessed [here](https://Image-Interpreter.streamlit.app/)
 
 ## Preview
 
-| ![Preview Image 1](ImagePreview/Preview1.png) | ![Preview Image 2](ImagePreview/Preview1.png) |
+| ![Preview Image 1](ImagePreview/Preview1.png) | ![Preview Image 2](ImagePreview/Preview2.png) |
 |---------|-------------|
 
 ---
