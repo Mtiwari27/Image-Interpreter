@@ -14,9 +14,9 @@ def get_gemini_response(input,image):
 
 
 st.set_page_config(
-    page_title="Image-Interpreter",
+    page_title="VisionIQ",
     page_icon="App Icon.png")
-st.header("Image Interpreter")
+st.header("VisionIQ")
 st.markdown("""
 The app functions as a visual question answering system. 
 It takes an image as input, processes it to extract relevant information, 
@@ -30,7 +30,7 @@ if uploaded_file is not None:
 input=st.text_input("Input Prompt (optional): ",key="input")
 
 
-submit=st.button("Give me Interpretation of this Image!")
+submit=st.button("Generate Image Insights!")
 
 if submit or input:
     response=get_gemini_response(input,image)
@@ -42,5 +42,5 @@ st.markdown("""
 
 *Built by Mukund Tiwari*
 
-[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/Mtiwari27/Image-Interpreter)
+[![Repo](https://badgen.net/badge/icon/GitHub?icon=github&label)](https://github.com/Mtiwari27/VisionIQ)
 """)
