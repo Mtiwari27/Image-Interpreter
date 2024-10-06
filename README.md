@@ -1,7 +1,7 @@
-# Image-Interpreter
-Image-Interpreter is a Python Streamlit app powered by the Google Gemini model for advanced image analysis and description.
+# VisionIQ
+VisionIQ is a Python Streamlit app powered by the Google Gemini model for advanced image analysis and description.
 Users can effortlessly upload images, optionally provide prompts, and receive insightful answers, making it a seamless and intuitive tool for visual data interpretation.
-The app can be accessed [here](https://Image-Interpreter.streamlit.app/)
+The app can be accessed [here](https://VisionIQ.streamlit.app/)
 
 ---
 
@@ -16,8 +16,8 @@ The app can be accessed [here](https://Image-Interpreter.streamlit.app/)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mtiwari27/Image-Interpreter.git
-   cd Image-Interpreter
+   git clone https://github.com/Mtiwari27/VisionIQ.git
+   cd VisionIQ
    ```
    
 2. Install the dependencies
@@ -45,6 +45,6 @@ The app can be accessed [here](https://Image-Interpreter.streamlit.app/)
 
 ## Deployment
 
-The app has been deployed and is accessible through the following link: https://Image-Interpreter.streamlit.app/
+The app has been deployed and is accessible through the following link: https://VisionIQ.streamlit.app/
 
 ---
