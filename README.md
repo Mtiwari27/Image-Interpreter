@@ -1,7 +1,7 @@
 # VisionIQ
 VisionIQ is a Python Streamlit app powered by the Google Gemini model for advanced image analysis and description.
 Users can effortlessly upload images, optionally provide prompts, and receive insightful answers, making it a seamless and intuitive tool for visual data interpretation.
-The app can be accessed [here](https://VisionIQ.streamlit.app/)
+The app can be accessed [here](https://visionIQ.streamlit.app/)
 
 ---
 
